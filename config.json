@@ -1,0 +1,9 @@
+{
+  "API-keys": {
+    "weather": "<enter WEATHER API (api.openweathermap.org) private key here>",
+    "news": "<enter NEWS API (newsapi.org) private key here>"
+  },
+	"information":{
+		"city":"Exeter"
+		}
+}
